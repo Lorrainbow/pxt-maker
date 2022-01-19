@@ -24,6 +24,13 @@
 
 ---
 
+* name: Solas
+* url: /boards/solas
+* cardType: template
+* imageUrl: /static/libs/solas.jpg
+
+---
+
 * name: RedBear BLE NANO 2
 * url: /boards/redbear-ble-nano
 * cardType: template
